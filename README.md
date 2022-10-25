@@ -1,5 +1,8 @@
-Olá, eu sou um desenvolvedor de software, graduado em análise e desenvolvimento de sistemas pela universidade Estácio de Sá, aprendendo cada vez mais nos cursos da Alura. Programo sites e sistemas com uma boa lógica de programação e código limpo.
+Olá, eu sou um desenvolvedor Front-end, graduado em análise e desenvolvimento de sistemas pela universidade Estácio de Sá e com formações na plataforma Alura.
 
-Sou entusiasta de DevOps e cloud computing, estudando para a certificação AZ-900 da Microsoft Azure.
+Tecnologias que utilizo:
+HTML / CSS / JavaScript / Angular / Git e Github.
 
-Estou sempre aberto a conhecer novas tecnologias para entregar o meu melhor e agregar ao time da empresa.
+Já desenvolvi projetos como landing pages, sites, sistemas e instrumentos musicais com interfaces digitais.
+
+Desenvolvo softwares com uma boa lógica de programação e código limpo. estou sempre aberto a conhecer novas tecnologias para entregar o meu melhor e agregar ao time da empresa.
