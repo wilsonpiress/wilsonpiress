@@ -1,6 +1,10 @@
-Olá, eu sou um desenvolvedor Front-end, graduado em análise e desenvolvimento de sistemas pela universidade Estácio de Sá e com formações na plataforma Alura.
+<b>Olá, me chamo Wilson Pires 👋</b>
 
-Tecnologias que utilizo:
-HTML / CSS / JavaScript / Angular.
+🔭 Eu sou Dev Front-end graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
-Desenvolvo softwares com uma boa lógica de programação e código limpo. estou sempre aberto a conhecer novas tecnologias para entregar o meu melhor e agregar ao time da empresa.
+🌱 Utilizo as tecnologias HTML5, CSS3, JavaScript e estou aprendendo TypeScript e Angular.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonpiress&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonpiress&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
