@@ -2,7 +2,7 @@
 
 🔭 Eu sou Dev Front-end graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
-🌱 Utilizo as tecnologias HTML5, CSS3, JavaScript e estou aprendendo TypeScript e Angular.
+🌱 Utilizo as tecnologias HTML5, CSS3, JavaScript/TypeScript e Angular.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonpiress&show_icons=true&theme=dracula)
