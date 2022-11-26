@@ -2,7 +2,7 @@
 
 🔭 Eu sou Dev Front-end graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá,
 
-graduando Ciências da Computação na Instituição IBMR (2/8).
+graduando em Ciências da Computação na Instituição IBMR (2/8).
 
 🌱 Tecnologias que uso HTML5, CSS3, JavaScript/TypeScript, Angular, Node.js, Git, GitHub e API's.
 
