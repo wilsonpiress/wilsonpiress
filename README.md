@@ -1,8 +1,6 @@
 <b>Olá, me chamo Wilson Pires 👋</b>
 
-🔭 Eu sou Dev Front-end graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá,
-
-graduando em Ciências da Computação na Instituição IBMR (2/8).
+🔭 Eu sou Dev Front-end graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
 🌱 Tecnologias que uso HTML5, CSS3, JavaScript/TypeScript, Angular, Node.js, Git, GitHub e API's.
 
